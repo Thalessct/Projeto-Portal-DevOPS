@@ -8,8 +8,12 @@ Evoluir uma página web existente por meio de trabalho colaborativo.
 - JavaScript
 - GitHub Pages
 ## Equipe
-Thales da Silva- Líder/Entregador
-Miguel Lopes- Desenvolvedor de Funcionalidades
-Gabriel Romeu- Desenvolvedor de Estrutura
-Daniel Molina- Desenvolvedor de interface
-João Pedro Marques- Revisor/Documentador
+- Thales da Silva- Líder/Entregador
+- Miguel Lopes- Desenvolvedor de Funcionalidades
+- Gabriel Romeu- Desenvolvedor de Estrutura
+- Daniel Molina- Desenvolvedor de interface
+- João Pedro Marques- Revisor/Documentador
+- ## Mudanças Realizadas
+- Css: Mudança da fonte/ Troca do background do body/ Mudança no tamanho da box, mensagem do mesmo tamanho do contato
+- HTML: Adicionado footer/ Adicionado campo de contato
+- Js: Verificação de email/ Mensagem de confirmação
