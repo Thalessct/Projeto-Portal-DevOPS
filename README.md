@@ -8,4 +8,8 @@ Evoluir uma página web existente por meio de trabalho colaborativo.
 - JavaScript
 - GitHub Pages
 ## Equipe
-Registrar integrantes, papéis e link da página publicada.
+Thales da Silva- Líder/Entregador
+Miguel Lopes- Desenvolvedor de Funcionalidades
+Gabriel Romeu- Desenvolvedor de Estrutura
+Daniel Molina- Desenvolvedor de interface
+João Pedro Marques- Revisor/Documentador
