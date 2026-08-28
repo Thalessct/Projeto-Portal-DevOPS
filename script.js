@@ -22,4 +22,9 @@ formContato.addEventListener("submit", (evento) => {
     resposta.classList.add("resposta-erro");
     return;
   }
+  // Mensagem de confirmação dos dados enviados
+  resposta.textContent = `Obrigado pelo contato, ${nome}! Enviamos uma confirmação para ${email}.`;
+  resposta.classList.add("resposta-sucesso");
+
+  formContato.reset();
 });
