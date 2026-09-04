@@ -23,7 +23,10 @@ body {
  margin: 32px auto;
  background: white;
  padding: 24px;
- border-radius: 12px; }
+ border-radius: 12px;
+ padding-bottom: 50px; 
+    
+}
 .cards {
  display: grid;
  grid-template-columns: repeat(3, 1fr);
@@ -45,7 +48,7 @@ input, textarea {
 form button {
  width: fit-content;
  padding: 10px 16px;
- background: #00537a;
+ background: #e6007e;
  color: white;
  border: none;
  border-radius: 8px; }
@@ -54,6 +57,23 @@ footer{
  color: white;
  padding: 40px 24px;
  text-align: center;
+}
+
+.header-main{
+    border: 0;
+  height: 2px; 
+  background-color: #e6007e;    
+  margin-top: -15px;
+    
+}
+
+.main-footer{
+  border: 0;
+
+  height: 2px; 
+  background-color: #e6007e;    
+  
+    
 }
 @media (max-width: 700px) {
  .cards { grid-template-columns: 1fr; } }
